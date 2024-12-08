@@ -73,6 +73,15 @@ Show # Currency
 	PlayEffect Red
 	MinimapIcon 0 Orange Circle
 	
+Show # Maps
+	Class "Waystone"
+	SetFontSize 45
+	SetTextColor 255 255 255 255
+	SetBorderColor 255 255 255 255
+	SetBackgroundColor 159 83 236
+	PlayEffect Purple
+	MinimapIcon 0 Purple Cross
+
 Show # uniques
 	Rarity Unique
 	SetFontSize 45
